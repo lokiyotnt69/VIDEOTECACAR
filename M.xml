@@ -19,6 +19,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/72c74m3sxrwh'
 </item>
 
 
+
 <item>
 <title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR lime] ma ma[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
