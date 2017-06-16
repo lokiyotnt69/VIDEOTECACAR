@@ -6,8 +6,8 @@
 <item>
 <title>[COLOR white]*A [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/31VN9nWog2L.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/31VN9nWog2L.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/VIDEOTECACAR/master/A.xml</externallink>	
 </item>
 
@@ -15,23 +15,23 @@
 <item>
 <title>[COLOR white]*B [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
+<thumbnail>http://pngimg.com/uploads/letter_b/letter_b_PNG9.png</thumbnail>
+<fanart>http://pngimg.com/uploads/letter_b/letter_b_PNG9.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/VIDEOTECACAR/master/B.xml</externallink>	
 </item>
 
 
 <item>
 <title>[COLOR white]*C  [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
+<thumbnail>http://etc.usf.edu/presentations/extras/letters/varsity_letters/51/15/c-400.png</thumbnail>
+<fanart>http://etc.usf.edu/presentations/extras/letters/varsity_letters/51/15/c-400.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/VIDEOTECACAR/master/C.xml</externallink>	
 </item>
 
 
 <item>
-<title>[COLOR white]  [/COLOR]</title>
+<title>[COLOR white]*D  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -40,7 +40,7 @@
 
 
 <item>
-<title>[COLOR white]  [/COLOR]</title>
+<title>[COLOR white]*E  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
