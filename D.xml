@@ -2,6 +2,7 @@
 
 <SetViewMode>500</SetViewMode>
 
+
 <item>
 <title>[ [COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR] ] ][COLOR lime] D.E.B.S. (Espías en acción)[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
